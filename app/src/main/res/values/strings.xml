@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EMI_calculator</string>
+    <string name="principal">Enter principal amount</string>
+    <string name="$amount">(in dollars)</string>
+    <string name="interest">Enter interest rate</string>
+    <string name="month">Amount to be paid for one month for: </string>
+    <string name="$rate">(in %)</string>
+    <string name="five">5 years:</string>
+    <string name="ten">10 years:</string>
+    <string name="fifteen">15 years:</string>
+    <string name="twenty">20 years:</string>
+    <string name="twentyfive">25 years:</string>
+    <string name="thirty">30 years:</string>
+
+    <string name="zero">0</string>
+
+    <string name="zero$">$0.00</string>
+    <string name="zero_interest">0</string>
+</resources>
